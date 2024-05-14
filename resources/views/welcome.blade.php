@@ -7,7 +7,7 @@
 <header id="header">
     <div class="d-flex d-flex-column">
         <div class="profile">
-            <img src="assets/img/profile_photo.jpg" alt="" class="img-fluid rounded-circle">
+            <img src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t1.15752-9/440543752_1181375013296925_8955377583172609714_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG-Q-tsNRGNP0Zf0ZnNbpGBcILW6MFrP49wgtbowWs_jxcLYjG6ZyS1uBpH3jRJxsY-FqxGFOhPSS7xZNtTB1OO&_nc_ohc=eUfC2UF82S0Q7kNvgEgj8iy&_nc_ht=scontent.fmnl4-3.fna&oh=03_Q7cD1QHjOwKf7H8Uh3eoMkAJP4U7bl5DD7hn2giI8rH89FdgUg&oe=666A67B9" alt="" class="img-fluid rounded-circle">
             <h1 class="text-light"><a href="index.html">James Adamor Castillo</a></h1>
         </div>
     </div>
@@ -40,7 +40,7 @@
   
           <div class="row">
             <div class="col-lg-4" data-aos="fade-right">
-              <img src="assets/img/profile_photo.jpg" class="img-fluid" alt="">
+              <img src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t1.15752-9/440543752_1181375013296925_8955377583172609714_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG-Q-tsNRGNP0Zf0ZnNbpGBcILW6MFrP49wgtbowWs_jxcLYjG6ZyS1uBpH3jRJxsY-FqxGFOhPSS7xZNtTB1OO&_nc_ohc=eUfC2UF82S0Q7kNvgEgj8iy&_nc_ht=scontent.fmnl4-3.fna&oh=03_Q7cD1QHjOwKf7H8Uh3eoMkAJP4U7bl5DD7hn2giI8rH89FdgUg&oe=666A67B9" class="img-fluid" alt="">
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
               <h3>Python Programmer &amp; Web Developer.</h3>
@@ -211,7 +211,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="{{asset('assets/img/portfolio2/img1.png')}}" class="img-fluid" alt="">
+            <img src="https://www.facebook.com/messenger_media/?attachment_id=836189158369425&message_id=mid.%24cAABa9XC0abiVpZM3vmPdExhucsfP&thread_id=100010204359096" class="img-fluid" alt="">
             {{-- <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -221,7 +221,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="{{asset('assets/img/portfolio2/img2.png')}}" class="img-fluid" alt="">
+            <img src="https://www.facebook.com/messenger_media/?attachment_id=836189158369425&message_id=mid.%24cAABa9XC0abiVpZM3vmPdExhucsfP&thread_id=100010204359096" class="img-fluid" alt="">
             {{-- <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -231,7 +231,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="{{asset('assets/img/portfolio2/img3.png')}}" class="img-fluid" alt="">
+            <img src="https://www.facebook.com/messenger_media/?attachment_id=836189158369425&message_id=mid.%24cAABa9XC0abiVpZM3vmPdExhucsfP&thread_id=100010204359096" class="img-fluid" alt="">
             {{-- <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -241,7 +241,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="{{asset('assets/img/portfolio2/img4.png')}}" class="img-fluid" alt="">
+            <img src="https://scontent.fmnl4-7.fna.fbcdn.net/v/t1.15752-9/373433085_633038298972259_1443283100748939702_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGfoLV7rrXAxaINk_giNl2U0O2_9vLBHi3Q7b_28sEeLVJdD_E71DV5UzZMn1Ibu83I0eHk0A4CeV3hgIDAUxj4&_nc_ohc=V74Z5N88Jy8Q7kNvgE-5F2m&_nc_ht=scontent.fmnl4-7.fna&oh=03_Q7cD1QEluIo5ct7EWVw4IvWKcipscoZ9fY1G_VXQdsU23cCt2Q&oe=666A68FE" class="img-fluid" alt="">
             {{-- <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -251,7 +251,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="{{asset('assets/img/portfolio2/img5.png')}}" class="img-fluid" alt="">
+            <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t1.15752-9/370197623_1018916099355390_8651008353758059936_n.png?stp=dst-png_s2048x2048&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFWL8hHETbifbqgQc3lsGK-XkDoZ8R-HrJeQOhnxH4esuQK0vF1vZ0w8W74erVjWokRBqXnn-NhplBgDb2nyks6&_nc_ohc=-6Q4Pslap30Q7kNvgFpkilT&_nc_oc=AdglC0P6pMx9eCLiOuYCzUmBrrYsNzmmZz9kMo73V764k_DJJwis7ud7EQLUaqRv2EQ&_nc_ht=scontent.fceb6-1.fna&oh=03_Q7cD1QGA4p1oGp6JP6f5NtA5AHBe_dQgcf_RkLcFygih9XAkIw&oe=666A872E" class="img-fluid" alt="">
             {{-- <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -261,7 +261,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="{{asset('assets/img/portfolio2/img6.jpg')}}" class="img-fluid" alt="">
+            <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t1.15752-9/370197623_1018916099355390_8651008353758059936_n.png?stp=dst-png_s2048x2048&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFWL8hHETbifbqgQc3lsGK-XkDoZ8R-HrJeQOhnxH4esuQK0vF1vZ0w8W74erVjWokRBqXnn-NhplBgDb2nyks6&_nc_ohc=-6Q4Pslap30Q7kNvgFpkilT&_nc_oc=AdglC0P6pMx9eCLiOuYCzUmBrrYsNzmmZz9kMo73V764k_DJJwis7ud7EQLUaqRv2EQ&_nc_ht=scontent.fceb6-1.fna&oh=03_Q7cD1QGA4p1oGp6JP6f5NtA5AHBe_dQgcf_RkLcFygih9XAkIw&oe=666A872E" class="img-fluid" alt="">
             {{-- <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -271,7 +271,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="{{asset('assets/img/portfolio2/img5.png')}}" class="img-fluid" alt="">
+            <img src="https://scontent.fmnl4-5.fna.fbcdn.net/v/t1.15752-9/385541654_273649201957200_6155023318419065192_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEjiGa3J1hFGicETb9t_AeuoNIyb-K-6o2g0jJv4r7qjXnxxV6xEoFmtXnXP7u6gK8aKdLbsFcf7up9EQSu-8kY&_nc_ohc=Jt7J6e4kYQwQ7kNvgGbUs0R&_nc_ht=scontent.fmnl4-5.fna&oh=03_Q7cD1QETQSokHrbLUheRhi6T77GA4Hnj0hi0se_S1TS8NIOTpQ&oe=666A695A" class="img-fluid" alt="">
             {{-- <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -281,7 +281,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+            <img src="https://scontent.fmnl4-5.fna.fbcdn.net/v/t1.15752-9/385541654_273649201957200_6155023318419065192_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEjiGa3J1hFGicETb9t_AeuoNIyb-K-6o2g0jJv4r7qjXnxxV6xEoFmtXnXP7u6gK8aKdLbsFcf7up9EQSu-8kY&_nc_ohc=Jt7J6e4kYQwQ7kNvgGbUs0R&_nc_ht=scontent.fmnl4-5.fna&oh=03_Q7cD1QETQSokHrbLUheRhi6T77GA4Hnj0hi0se_S1TS8NIOTpQ&oe=666A695A" class="img-fluid" alt="">
             {{-- <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
